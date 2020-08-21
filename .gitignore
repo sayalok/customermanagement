@@ -1,2 +1,9 @@
 bin
 lib
+# src/products/migrations/__pycache__
+# src/products/__pycache__
+# src/accounts/migrations/__pycache__
+# src/accounts/__pycache__
+# src/customers/migrations/__pycache__
+# src/customers/__pycache__
+
